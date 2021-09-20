@@ -60,3 +60,20 @@ function isClosedBrackets(char) {
 }
 console.log(isValid("{([])}"));
 ```
+
+## Education:
+
+### University:
+
+- Belarusian National Technical University\
+  _Speсialization:_ [Automation of technological processes and production](https://bntu.by/faculties/fitr/specialties) (autumn 2018-summer 2022)
+
+### Courses:
+
+- Free course on hexlet [Programming Basics](https://ru.hexlet.io/courses/programming-basics?ref=384206&utm_campaign=course_completed&utm_medium=social&utm_source=vk) (september 2021)
+- Free course on Netology [Start in SMM](D:\Lizz\Программироваие\project_EPAM\rsschool-cv\rsschool-cv\pdf\certificate.pdf) (august 2021)
+- [my favorite project](https://github.com/elizavetachizh/art_project)
+
+## Languages:
+
+_English:_ A2 - Pro-Intermidiate
